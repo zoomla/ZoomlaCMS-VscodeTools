@@ -3,7 +3,7 @@
 	"displayName": "ZoomlaCMS-dev",
 	"publisher": "ZoomlaCMS-dev",
 	"description": "The Development tools for Zoomla!逐浪CMS z01.com",
-	"version": "0.0.8",
+	"version": "0.0.81",
 	"engines": {
 		"vscode": "^1.45.0"
 	},

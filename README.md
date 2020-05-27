@@ -1,6 +1,6 @@
 ---
 文章标题:	逐浪CMS的vs-code开发工具(ZoomlaCMS-dev)
-关键字 :	mssql-scripter,SQL Server 
+关键字 :	逐浪,cms,开发工具 
 文章分类:	开发工具
 创建时间:	2020年5月27日
 ---
